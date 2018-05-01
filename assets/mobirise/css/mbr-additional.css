@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -654,13 +654,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1762,12 +1762,15 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qQh4CceFOe {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  background-image: url("../../../assets/images/welding-2000x1125.jpg");
+}
+.cid-qQh4CceFOe H1 {
+  color: #ffffff;
 }
 .cid-qQh8r4KHBI {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #aba6a6;
+  background-color: #2d2c2c;
 }
 .cid-qQh8r4KHBI .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1826,11 +1829,16 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qQNHo9XVwM {
+  padding-top: 120px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/imagem-utp-1-300x120.jpg");
+}
 .cid-qQh9jgCOjp {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #efefef);
+  background-color: #cccccc;
+  background: linear-gradient(#cccccc, #cccccc);
 }
 .cid-qQh9jgCOjp .carousel-control {
   background: #000;
@@ -2030,6 +2038,9 @@ body {
   .cid-qQh9jgCOjp .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-qQh9jgCOjp H2 {
+  color: #ffffff;
 }
 .cid-qQh9lFXeOB {
   padding-top: 30px;
