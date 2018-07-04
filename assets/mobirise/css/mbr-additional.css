@@ -1771,14 +1771,28 @@ body {
 .cid-qQh4CceFOe .mbr-section-btn {
   color: #ffffff;
 }
-.cid-qQNHo9XVwM {
-  padding-top: 120px;
-  padding-bottom: 105px;
-  background-image: url("../../../assets/images/folder-g-l-l-soldas-1748x1504.jpg");
+.cid-qWSxZOR0NJ {
+  background: #ffffff;
 }
-.cid-qQNHo9XVwM H2 {
-  color: #232323;
-  text-align: center;
+.cid-qWSxZOR0NJ .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qWSxZOR0NJ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qWSxZOR0NJ figcaption {
+  position: relative;
+}
+.cid-qWSxZOR0NJ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qWSxZOR0NJ .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qWH3iMhwwX {
   padding-top: 30px;
